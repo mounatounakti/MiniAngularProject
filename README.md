@@ -1,0 +1,2 @@
+# MiniAngularProject
+my first repo
